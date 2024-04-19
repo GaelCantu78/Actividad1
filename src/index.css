@@ -1,0 +1,9 @@
+button{
+  background-color: hsl(69, 48%, 67%);
+  padding:7px 10px;
+  border-radius:8px;
+  margin: 15px; 
+}
+img{
+  width: 250px; 
+}
